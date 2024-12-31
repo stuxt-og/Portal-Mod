@@ -1,0 +1,115 @@
+"Configs"
+{
+	"Games"
+	{
+		"Half-Life 2"
+		{
+			"GameDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2"
+			"Hammer"
+			{
+				"GameData0"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\halflife2.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_start"
+				"BSP"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vbsp.exe"
+				"Vis"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vvis.exe"
+				"Light"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vrad.exe"
+				"GameExeDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer"
+				"MapDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcesdk_content\hl2\mapsrc"
+				"BSPDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2\maps"
+				"CordonTexture"		"tools\toolsskybox"
+				"MaterialExcludeCount"		"0"
+			}
+		}
+		"Half-Life 2: Episode One"
+		{
+			"GameDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\episodic"
+			"Hammer"
+			{
+				"GameData0"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\halflife2.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_start"
+				"BSP"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vbsp.exe"
+				"Vis"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vvis.exe"
+				"Light"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vrad.exe"
+				"GameExeDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer"
+				"MapDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcesdk_content\episodic\mapsrc"
+				"BSPDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\episodic\maps"
+				"CordonTexture"		"tools\toolsskybox"
+				"MaterialExcludeCount"		"0"
+			}
+		}
+		"Half-Life 2: Episode Two"
+		{
+			"GameDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2"
+			"Hammer"
+			{
+				"GameData0"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\halflife2.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_start"
+				"BSP"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vbsp.exe"
+				"Vis"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vvis.exe"
+				"Light"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vrad.exe"
+				"GameExeDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer"
+				"MapDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcesdk_content\ep2\mapsrc"
+				"BSPDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\maps"
+				"CordonTexture"		"tools\toolsskybox"
+				"MaterialExcludeCount"		"0"
+			}
+		}
+		"SourceTest"
+		{
+			"GameDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcetest"
+			"Hammer"
+			{
+				"GameData0"		"D:\deferred.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_start"
+				"BSP"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vbsp.exe"
+				"Vis"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vvis.exe"
+				"Light"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vrad.exe"
+				"GameExeDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer"
+				"MapDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcesdk_content\sourcetest\mapsrc"
+				"BSPDir"		"D:\Games\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\sourcetest\maps"
+				"CordonTexture"		"tools\toolsskybox"
+				"MaterialExcludeCount"		"0"
+			}
+		}
+		"Deferred"
+		{
+			"GameDir"		"D:\P1xP2\game\mod_p1xp2"
+			"Hammer"
+			{
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"BSP"		"D:\P1xP2\game\bin\vbsp.exe"
+				"Vis"		"D:\P1xP2\game\bin\vvis.exe"
+				"Light"		"D:\P1xP2\game\bin\vrad.exe"
+				"CordonTexture"		"BLACK"
+				"MaterialExcludeCount"		"0"
+			}
+		}
+	}
+	"SDKVersion"		"5"
+}
